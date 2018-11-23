@@ -17,3 +17,6 @@ wechatReady(()=> {
   document.getElementById('video').play();
 });
 ```
+
+## 作者
+She Ailun

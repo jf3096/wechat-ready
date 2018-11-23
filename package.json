@@ -1,10 +1,11 @@
 {
   "name": "wechat-ready",
+  "private": false,
   "version": "0.0.1",
   "description": "wechat ready similar to jquery $(()=>{})",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "public-publish": "npm publish --access=public"
   },
   "homepage": "https://github.com/jf3096/wechat-ready",
   "keywords": [
