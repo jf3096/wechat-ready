@@ -1,0 +1,15 @@
+{
+  "name": "wechat-ready",
+  "version": "0.0.1",
+  "description": "wechat ready similar to jquery $(()=>{})",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/jf3096/wechat-ready",
+  "keywords": [
+    "wechat, weixin, weixin-ready, wechat-ready"
+  ],
+  "author": "She Ailun",
+  "license": "MIT"
+}
